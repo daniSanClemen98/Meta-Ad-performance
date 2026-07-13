@@ -5,13 +5,21 @@ The main objective of this project is to showcase and analyze the performance of
 
 ## 🗂 Index
 
-* ### [ KPIs (Facebook) ](https://github.com/daniSanClemen98/Shopify-Analysis-#-kpis)
-* ### [ Net Sales ](https://github.com/daniSanClemen98/Shopify-Analysis-#-net-sales)
-* ### [ Total Quantity ](https://github.com/daniSanClemen98/Shopify-Analysis-#-total-quantity)
-* ### [ Total Customers ](https://github.com/daniSanClemen98/Shopify-Analysis-#-total-customers)
-* ### [ Repeat Rate ](https://github.com/daniSanClemen98/Shopify-Analysis-#-repeat-rate)
-* ### [ Details Tab ](https://github.com/daniSanClemen98/Shopify-Analysis-#-details-tab)
-* ### [ Conclusion ](https://github.com/daniSanClemen98/Shopify-Analysis-#-conclusion)
+* ### [ KPIs (Facebook) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-kpis-facebook)
+* ### [ Impressions (Fb) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-impressions-fb)
+* ### [ Engagments (Fb) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-engagments-fb)
+* ### [ Clicks (Fb) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-clicks-fb)
+* ### [ Shares (Fb) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-shares-fb)
+* ### [ Commets (Fb) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-commets-fb)
+* ### [ Purchases (Fb) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-purchases-fb)
+* ### [ KPIs (Instagram) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-kpis-instagram)
+* ### [ Impressions (Ig) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-impressions-ig)
+* ### [ Engagments (Ig) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-engagments-ig)
+* ### [ Clicks (Ig) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-clicks-ig)
+* ### [ Shares (Ig) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-shares-ig)
+* ### [ Commets (Ig) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-commets-ig)
+* ### [ Purchases (Ig) ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-purchases-ig)
+* ### [ Conclusion ](https://github.com/daniSanClemen98/Meta-Ad-performance/blob/main/README.md#-conclusion)
 
 
 ## 🎨 KPIs (Facebook)
