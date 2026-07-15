@@ -41,11 +41,30 @@ The ratio of clicks and impressions was around 11,76%, engagament was over 13,56
 <img width="847" height="488" alt="image" src="https://github.com/user-attachments/assets/19209e47-3651-4174-b998-7d23c3f56497" />
 </p>
 
+The majority impressions by gender were done by female users (Women),  which accounted for 41,1% of total amount generating approximately 46495 impressions. This makes it the dominant gender but not by a lot, because the second ranked is all users (Women and Men) contributing 35,4% of total impressions (38845). followed by male users (Men) which represented 23,2% (26070).  
+
+These results indicate a relative and evenly distribution  of the impression measures given that none of them were more than 50%. however there is a small dominance coming from the female users that could be explained by more women use more social media than men.
+
+The monthly analysis of impression through the month of June show an estimate of around 3,600 on the lowest performing day (june 14th) and the highest performing one with around 3,900 impressions (june 15th). Overall a quite small variation.
+
+
 * #### Weekly Trend & Age
   
 <p align="center">
-<img width="880" height="495" alt="image" src="https://github.com/user-attachments/assets/edc02bf4-f81e-41d6-b56c-d2f621864cb6" />
+<img width="882" height="493" alt="image" src="https://github.com/user-attachments/assets/23b2ec77-e528-4650-aaa7-a12b8f6c8b18" />
 </p>
+
+The weekly impression trend reveals a distribution of patterns throughout the four different ad Types of formats that were examined over a fifteen-week period. During this timeframe. 
+
+Stories standing as the most prefered by users with 5277 impression on week 19 followed by a continous rise from week 20 to week 31 of around 8382 until week 32 that registers a significant drop to 3050. Images comes in second as it registered over 4389 impression by the users followed by a continous rise from week 20 to week 31 of around 6773 until week 32 that registers a significant drop to 2498. Followed by Carousel by a very small margent with around 4168 impression on week 19 followed by a continous rise from week 20 to week 31 of around 6676 until week 32 that registers a significant drop to 2393. Lastly video was the lowest performing ad type contriubuting to 2755 impression on week 19 followed by a continous rise from week 20 to week 31 of around 4307 until week 32 that registers a significant drop to 1600.
+
+This trend likely reflects that people prefer quick and simple to understand messaging that a story or an image could provide rather than a carousel that could be several videos or images and might be percived as long and tedious.
+
+
+The age distribution shows a clear fluctuating tendency its peak being age 16 with over 19858 impressions, then a drop at age 17 with only 8566, folowed by a moderate rise of ages 18 & 19 with around 12200, then another rise with 1507 impressions for age 20, From ages 21 to ages 29 thre are a few rises and drops but all staying in a average of around 15489 impressions, then from ages 30 to 43 there is a steady drop starting with 12922 to 1976 impressions, followed by ages 44 and 45 with a very small rise of 2350, and lastly until age 50 around 1261 impressions.
+
+This results indicate that young people in this case we could say gen z is the more in touch with online spaces given that they are the generation born with the internet, then millenians being also considerably online but in a reduced manner, finally gen x being the lowest participants.
+
 
 * #### Hourly Trend, Ad Type Analysis & Country
   
