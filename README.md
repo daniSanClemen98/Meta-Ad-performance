@@ -28,6 +28,10 @@ The main objective of this project is to showcase and analyze the performance of
 <img width="860" height="128" alt="image" src="https://github.com/user-attachments/assets/0b65d5f3-ce99-4c64-bea0-f760c9fa05e9" />
 </p>
 
+For facebook anaylis during the period of time studied amounting to 215,972 impressions, over 25,000 clicks, around 1,000 shares, over 2,600 comments, around 1,300 purchases and a total of 29,296 engagments.
+
+The ratio of clicks and impressions was around 11,76%, engagament was over 13,56%, conversion rate making 5,21%, purchase rate making 0,61%. The total budget for campaings was around 227,022 million dollars and an average of 5 million dollars per campaign.
+
 
 ## 🔍 Impressions (Fb)
 
@@ -163,6 +167,10 @@ The main objective of this project is to showcase and analyze the performance of
 <p align="center">
 <img width="861" height="131" alt="image" src="https://github.com/user-attachments/assets/c92d316f-7816-4d91-88b3-582d11042a1e" />
 </p>
+
+For Instagram anaylis during the period of time studied amounting to 213,840 impressions, over 14,690 clicks, around 682 shares, over 1,500 comments, around 708 purchases and a total of 17,000 engagments.
+
+The ratio of clicks and impressions was around 11,86%, engagament was over 13,60%, conversion rate making  4,82% , purchase rate making 0,57%. The total budget for campaings was around 227,022 million dollars and an average of 5 million dollars per campaign.
 
 
 
