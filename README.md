@@ -93,6 +93,12 @@ This results indicate that young people in this case we could say gen z is the m
 <img width="883" height="496" alt="image" src="https://github.com/user-attachments/assets/4b3668c5-c966-4880-9ed0-f14dcbcd7eac" />
 </p>
 
+To analyze the hourly trend over a short period, impressions were examined across a 24 hours timeframe. During this period the number of impressions fluctuated, reaching three different peaks in seperate hours, the first one being at 2 in the morning with 14324, followed by a drop at 4 in the morning of 14064, then a moderate rise of 14183 at 5, then the lowest drop can be seen at 7 in the morning with only 13971, immediately followed by the sencond hightest peak at 8 with 14337, then another drop 14053, at 10 there is a rise of 14154 that later at 11 reachest the highest peak at 14346, then there is a small drop that plateaus until hour 14 142380, followed by a drop at 15 with 14075, from hour 16 to 18 there is a steady rise that culminates with 14193, followed by a very small drop 14108 at 19, then a rise with a small platau in the hours 20 and 21 with 14211, a final drop at 22 with 14039, finally a steady rise.
+
+Based on the measure the countries that reported the most impressions were the United States with 97336, the United Kingdom with 48965 and Germany with 26980, the USA being the country that reports the highest number of impressions is because India was not included because they are the country that uses facebook the most however the USA comes in second.
+
+Video ads have the highest CTR, CR, ER (best-performing). Stories ads also perform strongly with higher impressions. Images/Carousels have decent performance but slightly lower conversions. Insight: Focus budget more on Video & Story ads for better ROI. 
+
 
 ## 🔍 Clicks (Fb)
 
