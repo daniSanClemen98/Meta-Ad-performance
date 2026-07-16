@@ -28,9 +28,9 @@ The main objective of this project is to showcase and analyze the performance of
 <img width="860" height="128" alt="image" src="https://github.com/user-attachments/assets/0b65d5f3-ce99-4c64-bea0-f760c9fa05e9" />
 </p>
 
-For facebook anaylis during the period of time studied amounting to 215,972 impressions, over 25,000 clicks, around 1,000 shares, over 2,600 comments, around 1,300 purchases and a total of 29,296 engagments.
+Facebook recorded a total of 215,972 impressions during the period analyzed, generating over 25,000 clicks, approximately 1,000 shares, more than 2,600 comments, around 1,300 purchases, and a total of 29,296 engagements.
 
-The ratio of clicks and impressions was around 11,76%, engagament was over 13,56%, conversion rate making 5,21%, purchase rate making 0,61%. The total budget for campaings was around 227,022 million dollars and an average of 5 million dollars per campaign.
+The platform achieved a Click-Through Rate (CTR) of 11.76%, while the Engagement Rate reached 13.56%. In terms of conversions, the Conversion Rate was 5.21%, with a Purchase Rate of 0.61%. Overall, the advertising campaigns were supported by a total budget of approximately $227.02 million, averaging $5 million per campaign.
 
 
 ## 🔍 Impressions (Fb)
