@@ -195,10 +195,9 @@ Video ads have the highest CTR, CR, ER (best-performing). Stories ads also perfo
 <img width="861" height="131" alt="image" src="https://github.com/user-attachments/assets/c92d316f-7816-4d91-88b3-582d11042a1e" />
 </p>
 
-For Instagram anaylis during the period of time studied amounting to 213,840 impressions, over 14,690 clicks, around 682 shares, over 1,500 comments, around 708 purchases and a total of 17,000 engagments.
+Instagram recorded a total of 123,840 impressions during the period analyzed, generating over 14,690 clicks, 682 shares, more than 1,500 comments, approximately 708 purchases, and a total of 17,000 engagements.
 
-The ratio of clicks and impressions was around 11,86%, engagament was over 13,60%, conversion rate making  4,82% , purchase rate making 0,57%. The total budget for campaings was around 227,022 million dollars and an average of 5 million dollars per campaign.
-
+The platform achieved a Click-Through Rate (CTR) of 11.86%, while the Engagement Rate reached 13.60%. In terms of conversions, the Conversion Rate was 4.82%, with a Purchase Rate of 0.57%. Overall, the advertising campaigns were supported by a total budget of approximately $227 million, averaging $5 million per campaign.
 
 
 ## 🔍 Impressions (Ig)
