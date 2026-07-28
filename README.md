@@ -468,19 +468,19 @@ The platform achieved a Click-Through Rate (CTR) of 11.86%, while the Engagement
 * #### Gender & Month Analysis
   
 <p align="center">
-<img width="877" height="490" alt="image" src="https://github.com/user-attachments/assets/48e47308-3b5e-4a2f-93ea-7708fe91cb62" />
+<img width="878" height="492" alt="image" src="https://github.com/user-attachments/assets/cb67391d-aef2-497b-87ec-9a444467a9aa" />
 </p>
 
 * #### Weekly Trend & Age
   
 <p align="center">
-<img width="880" height="493" alt="image" src="https://github.com/user-attachments/assets/ace4d577-9e4e-4b60-ac5e-b28c5c7d9430" />
+<img width="879" height="497" alt="image" src="https://github.com/user-attachments/assets/82a0a4ee-4359-4047-bf1a-ce223f92a413" />
 </p>
 
 * #### Hourly Trend, Ad Type Analysis & Country
   
 <p align="center">
-<img width="884" height="491" alt="image" src="https://github.com/user-attachments/assets/19580f87-833e-4dc8-931e-7077f7c9c5f4" />
+<img width="883" height="492" alt="image" src="https://github.com/user-attachments/assets/a8298758-be09-4626-8798-080cb72d976d" />
 </p>
 
 
@@ -489,19 +489,19 @@ The platform achieved a Click-Through Rate (CTR) of 11.86%, while the Engagement
 * #### Gender & Month Analysis
 
 <p align="center">
-<img width="884" height="497" alt="image" src="https://github.com/user-attachments/assets/ac764cd5-d7a6-4627-9655-3fe53e5c0862" />
+<img width="877" height="487" alt="image" src="https://github.com/user-attachments/assets/795d163a-fd48-4af3-9246-fba2dca5b644" />
 </p>
 
 * #### Weekly Trend & Age
   
 <p align="center">
-<img width="887" height="494" alt="image" src="https://github.com/user-attachments/assets/c74ae2c2-0074-429b-87ae-c5a89ba6d523" />
+<img width="882" height="495" alt="image" src="https://github.com/user-attachments/assets/46e6c256-d439-4d7a-8bda-0974f3759428" />
 </p>
 
 * #### Hourly Trend, Ad Type Analysis & Country
   
 <p align="center">
-<img width="885" height="491" alt="image" src="https://github.com/user-attachments/assets/d14cd432-4c0e-4b8d-8dc8-6768b08f1956" />
+<img width="879" height="491" alt="image" src="https://github.com/user-attachments/assets/08831b94-caa9-499d-aa16-115cadec6235" />
 </p>
 
 
