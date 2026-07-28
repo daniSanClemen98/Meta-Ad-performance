@@ -510,19 +510,19 @@ The platform achieved a Click-Through Rate (CTR) of 11.86%, while the Engagement
 * #### Gender & Month Analysis
 
 <p align="center">
-<img width="882" height="489" alt="image" src="https://github.com/user-attachments/assets/ddbbff17-4ae0-473e-b37a-d3287c64c83f" />
+<img width="878" height="484" alt="image" src="https://github.com/user-attachments/assets/51c553e8-0277-4b11-9a67-18c4879eb05e" />
 </p>
 
 * #### Weekly Trend & Age
   
 <p align="center">
-<img width="879" height="494" alt="image" src="https://github.com/user-attachments/assets/f96638dd-5603-4755-935f-a0f2f8b9bf74" />
+<img width="875" height="489" alt="image" src="https://github.com/user-attachments/assets/3941f157-6f27-47c7-a173-fa7446c099d6" />
 </p>
 
 * #### Hourly Trend, Ad Type Analysis & Country
   
 <p align="center">
-<img width="880" height="492" alt="image" src="https://github.com/user-attachments/assets/0e584dbf-9e5a-4c16-bab6-0ced17055aa1" />
+<img width="881" height="496" alt="image" src="https://github.com/user-attachments/assets/397131da-1665-48d3-981c-e2e37d2debf9" />
 </p>
 
 
@@ -531,19 +531,19 @@ The platform achieved a Click-Through Rate (CTR) of 11.86%, while the Engagement
 * #### Gender & Month Analysis
 
 <p align="center">
-<img width="872" height="488" alt="image" src="https://github.com/user-attachments/assets/38aae133-7beb-4156-8192-750493d437e4" />
+<img width="880" height="490" alt="image" src="https://github.com/user-attachments/assets/65ede2ab-ec6a-462f-ae62-eda96ec5eebd" />
 </p>
 
 * #### Weekly Trend & Age
   
 <p align="center">
-<img width="880" height="493" alt="image" src="https://github.com/user-attachments/assets/fedd9663-cd2f-4bfd-ae53-494f1b113b91" />
+<img width="881" height="492" alt="image" src="https://github.com/user-attachments/assets/31ed423f-4f30-4022-9af9-c6954078f8d2" />
 </p>
 
 * #### Hourly Trend, Ad Type Analysis & Country
   
 <p align="center">
-<img width="881" height="489" alt="image" src="https://github.com/user-attachments/assets/54b19225-925b-487d-a9ef-cd9470683948" />
+<img width="884" height="496" alt="image" src="https://github.com/user-attachments/assets/99a7d3ce-ffff-4f0c-af6c-73e891c79097" />
 </p>
 
 
@@ -553,19 +553,19 @@ The platform achieved a Click-Through Rate (CTR) of 11.86%, while the Engagement
 * #### Gender & Month Analysis
 
 <p align="center">
-<img width="875" height="491" alt="image" src="https://github.com/user-attachments/assets/b2584292-73c6-4b4a-aebf-e10e5d34ad4f" />
+<img width="874" height="490" alt="image" src="https://github.com/user-attachments/assets/46626d64-47d6-4233-8aca-80f7927e67f8" />
 </p>
 
 * #### Weekly Trend & Age
   
 <p align="center">
-<img width="881" height="490" alt="image" src="https://github.com/user-attachments/assets/688d479f-fff3-4a8f-9706-28620a6cf1d5" />
+<img width="880" height="492" alt="image" src="https://github.com/user-attachments/assets/3fa71c69-2da4-46a7-87ce-5590cc8d6243" />
 </p>
 
 * #### Hourly Trend, Ad Type Analysis & Country
   
 <p align="center">
-<img width="878" height="492" alt="image" src="https://github.com/user-attachments/assets/b8c48139-1dfc-4870-940f-11c03455280a" />
+<img width="882" height="492" alt="image" src="https://github.com/user-attachments/assets/1e9bba75-e6b4-4d14-831c-66ca6d2d024b" />
 </p>
 
 
@@ -574,19 +574,19 @@ The platform achieved a Click-Through Rate (CTR) of 11.86%, while the Engagement
 * #### Gender & Month Analysis
 
 <p align="center">
-<img width="882" height="492" alt="image" src="https://github.com/user-attachments/assets/841c5924-0821-49ff-b7c7-437cbc7c9708" />
+<img width="876" height="483" alt="image" src="https://github.com/user-attachments/assets/547277dc-54b4-4155-ba4b-56498887c9ed" />
 </p>
 
 * #### Weekly Trend & Age
   
 <p align="center">
-<img width="875" height="491" alt="image" src="https://github.com/user-attachments/assets/3ce8994e-8982-4aa0-a45d-b174ba729611" />
+<img width="880" height="495" alt="image" src="https://github.com/user-attachments/assets/b1809651-9417-4ab3-8aa8-85a7f34ce5a3" />
 </p>
 
 * #### Hourly Trend, Ad Type Analysis & Country
   
 <p align="center">
-<img width="881" height="486" alt="image" src="https://github.com/user-attachments/assets/40ad8536-7cf3-4228-b011-ca299228fc0f" />
+<img width="881" height="493" alt="image" src="https://github.com/user-attachments/assets/061642d2-f309-4d22-b6cd-e021bcd9ba2e" />
 </p>
 
 
