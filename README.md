@@ -479,11 +479,34 @@ These results indicate a relatively balanced distribution of impressions across 
 
 The monthly analysis focused on June, where daily impressions showed only minor fluctuations throughout the month. The lowest-performing day were 13 days over the month, with approximately 1,300 impressions, while the highest-performing day were the remaining 14 days left, reaching around 1,400 impressions. Overall, the variation in daily impressions was relatively small, indicating stable campaign performance throughout the month.
 
+
 * #### Weekly Trend & Age
   
 <p align="center">
 <img width="879" height="497" alt="image" src="https://github.com/user-attachments/assets/82a0a4ee-4359-4047-bf1a-ce223f92a413" />
 </p>
+
+The weekly impressions trend reveals a consistent distribution across the four ad formats over the 15-week period analyzed.
+
+Stories generated the highest number of impressions, beginning with approximately 1,759 impressions in Week 19 before increasing steadily to around 2,885 impressions between Weeks 20 and 31. During Week 32, impressions declined sharply to approximately 1,059.
+
+Image ads ranked second, recording approximately 1,828 impressions in Week 19 before increasing to around 2,947 impressions throughout Weeks 20 to 31, followed by a significant decrease to 1,054 impressions in Week 32.
+
+Carousel ads followed closely behind, generating approximately 494 impressions in Week 19 and increasing to around  973 impressions during Weeks 20 to 31 before dropping to approximately 286 impressions in Week 32.
+
+Video ads recorded the lowest performance throughout the analyzed period, starting with approximately 2,755 impressions in Week 19, rising to around 4,307 impressions between Weeks 20 and 31, and declining to approximately 1,600 impressions in Week 32.
+
+Overall, all four ad formats followed a very similar pattern, characterized by a gradual increase in impressions during the middle weeks followed by a noticeable decline in the final week of the analysis. Among them, Stories consistently generated the highest number of impressions, while Video ads remained the lowest-performing format.
+
+The age distribution shows that impressions were concentrated among younger audiences. The highest number of impressions was recorded for 16-year-olds, with approximately 7,246 impressions, followed by a sharp decline at age 17 to around 3,122 impressions.
+
+From ages 18 to 20, impressions increased again, reaching approximately 4,814 impressions at age 20. Between ages 21 and 29, impressions remained relatively stable, averaging around 5,629 impressions, with only minor fluctuations.
+
+Beginning at age 30, impressions showed a gradual downward trend, decreasing from approximately 4,641 impressions to around 677 impressions by age 43. A slight increase was observed at ages 44 and 45, reaching approximately 900 impressions, before declining once again to around 308 impressions by age 50.
+
+Overall, the results indicate that impressions were concentrated primarily among younger audiences, particularly individuals in their late teens and twenties. Engagement gradually decreased with age, suggesting that the advertising campaigns reached younger demographics more frequently than older ones.
+
+
 
 * #### Hourly Trend, Ad Type Analysis & Country
   
@@ -513,6 +536,27 @@ The monthly analysis focused on June, where daily engagements showed only minor 
 <img width="882" height="495" alt="image" src="https://github.com/user-attachments/assets/46e6c256-d439-4d7a-8bda-0974f3759428" />
 </p>
 
+The weekly engagements trend reveals a consistent distribution across the four ad formats over the 15-week period analyzed.
+
+Stories generated the highest number of engagements, beginning with approximately 239 engagements in Week 19 before increasing steadily to around 385 engagements between Weeks 20 and 31. During Week 32, engagements declined sharply to approximately 156.
+
+Image ads ranked second, recording approximately 264 engagements in Week 19 before increasing to around 404 engagements throughout Weeks 20 to 31, followed by a significant decrease to 154 engagements in Week 32.
+
+Carousel ads followed closely behind, generating approximately 240 engagements in Week 19 and increasing to around 403 engagements during Weeks 20 to 31 before dropping to approximately 160 engagements in Week 32.
+
+Video ads recorded the lowest performance throughout the analyzed period, starting with approximately 76 engagements in Week 19, rising to around 108 engagements between Weeks 20 and 31, and declining to approximately 37 engagements in Week 32.
+
+Overall, all four ad formats followed a very similar pattern, characterized by a gradual increase in engagements during the middle weeks followed by a noticeable decline in the final week of the analysis. Among them, Stories consistently generated the highest number of engagements, while Video ads remained the lowest-performing format.
+
+The age distribution shows that engagements were concentrated among younger audiences. The highest number of engagements was recorded for 16-year-olds, with approximately 987 engagements, followed by a sharp decline at age 17 to around 435 engagements.
+
+From ages 18 to 20, engagements increased again, reaching approximately 590 engagements at age 20. Between ages 21 and 29, engagements remained relatively stable, averaging around 852 engagements, with only minor fluctuations.
+
+Beginning at age 31, engagements showed a gradual downward trend, decreasing from approximately 596 engagements to around 105 engagements by age 43. A slight increase was observed at ages 44 and 45, reaching approximately 123 engagements, before declining once again to around 62 engagements by age 50.
+
+Overall, the results indicate that engagements were concentrated primarily among younger audiences, particularly individuals in their late teens and twenties. Engagement gradually decreased with age, suggesting that the advertising campaigns reached younger demographics more frequently than older ones.
+
+
 * #### Hourly Trend, Ad Type Analysis & Country
   
 <p align="center">
@@ -534,11 +578,33 @@ These results indicate a relatively balanced distribution of clicks across the t
 
 The monthly analysis focused on June, where daily clicks showed only minor fluctuations throughout the month. The lowest-performing day was June 18, with approximately 132 clicks, while the highest-performing day was June 23, reaching around 184 clicks. Overall, the variation in daily clicks was relatively small, indicating stable campaign performance throughout the month.
 
+
 * #### Weekly Trend & Age
   
 <p align="center">
 <img width="875" height="489" alt="image" src="https://github.com/user-attachments/assets/3941f157-6f27-47c7-a173-fa7446c099d6" />
 </p>
+
+The weekly clicks trend reveals a consistent distribution across the four ad formats over the 15-week period analyzed.
+
+Stories generated the highest number of clicks, beginning with approximately 211 clicks in Week 19 before increasing steadily to around 335 clicks between Weeks 20 and 31. During Week 32, clicks declined sharply to approximately 136.
+
+Image ads ranked second, recording approximately 237 clicks in Week 19 before increasing to around 346 clicks throughout Weeks 20 to 31, followed by a significant decrease to 138 clicks in Week 32.
+
+Carousel ads followed closely behind, generating approximately 212 clicks in Week 19 and increasing to around 350 clicks during Weeks 20 to 31 before dropping to approximately 139 clicks in Week 32.
+
+Video ads recorded the lowest performance throughout the analyzed period, starting with approximately 64 clicks in Week 19, rising to around 94 clicks between Weeks 20 and 31, and declining to approximately 33 clicks in Week 32.
+
+Overall, all four ad formats followed a very similar pattern, characterized by a gradual increase in clicks during the middle weeks followed by a noticeable decline in the final week of the analysis. Among them, Stories consistently generated the highest number of clicks, while Video ads remained the lowest-performing format.
+
+The age distribution shows that clicks were concentrated among younger audiences. The highest number of clicks was recorded for 16-year-olds, with approximately 848 clicks, followed by a sharp decline at age 17 to around 377 clicks.
+
+From ages 18 to 20, clicks increased again, reaching approximately 558 clicks at age 20. Between ages 21 and 29, clicks remained relatively stable, averaging around 670 clicks, with only minor fluctuations.
+
+Beginning at age 32, clicks showed a gradual downward trend, decreasing from approximately 509 clicks to around 97 clicks by age 43. A slight increase was observed at ages 44 and 45, reaching approximately 108 clicks, before declining once again to around 53 clicks by age 50.
+
+Overall, the results indicate that clicks were concentrated primarily among younger audiences, particularly individuals in their late teens and twenties. Click activity gradually decreased with age, suggesting that the advertising campaigns reached younger demographics more frequently than older ones.
+
 
 * #### Hourly Trend, Ad Type Analysis & Country
   
