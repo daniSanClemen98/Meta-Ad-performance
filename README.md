@@ -263,7 +263,7 @@ The monthly analysis focused on June, where daily shares showed only minor fluct
 * #### Weekly Trend & Age
   
 <p align="center">
-<img width="884" height="498" alt="image" src="https://github.com/user-attachments/assets/930bd59d-5d9f-4cb1-a21c-d1176e93d6a4" />
+<img width="881" height="497" alt="image" src="https://github.com/user-attachments/assets/325dd108-ebcc-4f40-ad3f-af0a62f342d9" />
 </p>
 
 The weekly shares trend reveals a consistent distribution across the four ad formats over the 15-week period analyzed.
@@ -634,6 +634,27 @@ The monthly analysis focused on June, where daily shares showed only minor fluct
 <img width="881" height="492" alt="image" src="https://github.com/user-attachments/assets/31ed423f-4f30-4022-9af9-c6954078f8d2" />
 </p>
 
+The weekly shares trend reveals a consistent distribution across the four ad formats over the 15-week period analyzed.
+
+Stories generated the highest number of shares, beginning with approximately 5 shares in Week 19 before increasing steadily to around 16 shares between Weeks 20 and 31. During Week 32, shares declined sharply to approximately 8.
+
+Image ads ranked second, recording approximately 6 shares in Week 19 before increasing to around 15 shares throughout Weeks 20 to 31, followed by a significant decrease to 2 shares in Week 32.
+
+Carousel ads followed closely behind, generating approximately 6 shares in Week 16 and increasing to around 36 shares during Weeks 20 to 31 before dropping to approximately 2 shares in Week 32.
+
+Video ads recorded the lowest performance throughout the analyzed period, starting with approximately 5 shares in Week 19, rising to around 5 shares between Weeks 20 and 31, and declining to approximately 1 shares in Week 32.
+
+Overall, all four ad formats followed a very similar pattern, characterized by a gradual increase in shares during the middle weeks followed by a noticeable decline in the final week of the analysis. Among them, Stories consistently generated the highest number of shares, while Video ads remained the lowest-performing format.
+
+The age distribution shows that shares were concentrated among younger audiences. The highest number of shares was recorded for 26-year-olds, with approximately 45 shares, while the second-highest value was observed among 16-year-olds, with approximately 41shares. This was followed by a sharp decline at age 17 to around 14 shares.
+
+From ages 18 to 29, shares fluctuated considerably, averaging approximately 30 shares, although the overall values remained concentrated within this younger age range.
+
+Beginning at age 30, shares generally followed a downward trend. Although there was a brief increase around age 32, where shares reached approximately 28, the overall pattern showed a gradual decline through the older age groups. A slight increase was observed at ages 44 and 45, reaching approximately 7 shares, before declining once again to around 1 shares by age 50.
+
+Overall, the results indicate that shares were concentrated primarily among younger audiences, particularly individuals in their late teens and twenties. Share activity gradually decreased with age, suggesting that younger demographics were more likely to share advertising content than older age groups.
+
+
 * #### Hourly Trend, Ad Type Analysis & Country
   
 <p align="center">
@@ -663,6 +684,27 @@ The monthly analysis focused on June, where daily comments showed only minor flu
 <img width="880" height="492" alt="image" src="https://github.com/user-attachments/assets/3fa71c69-2da4-46a7-87ce-5590cc8d6243" />
 </p>
 
+The weekly comments trend reveals a consistent distribution across the four ad formats over the 15-week period analyzed.
+
+Stories generated the highest number of comments, beginning with approximately 23 comments in Week 19 before increasing steadily to around 34 comments between Weeks 20 and 31. During Week 32, comments declined sharply to approximately 12.
+
+Image ads ranked second, recording approximately 21 comments in Week 19 before increasing to around 33 comments throughout Weeks 20 to 31, followed by a significant decrease to 9 comments in Week 32.
+
+Carousel ads followed closely behind, generating approximately 21 comments in Week 19 and increasing to around 36 comments during Weeks 20 to 31 before dropping to approximately 19 comments in Week 32.
+
+Video ads recorded the lowest performance throughout the analyzed period, starting with approximately 7 comments in Week 19, rising to around 9 comments between Weeks 20 and 31, and declining to approximately 3 comments in Week 32.
+
+Overall, all four ad formats followed a very similar pattern, characterized by a gradual increase in comments during the middle weeks followed by a noticeable decline in the final week of the analysis. Among them, Stories consistently generated the highest number of comments, while Video ads remained the lowest-performing format.
+
+The age distribution shows that comments were concentrated among younger audiences. The highest number of comments was recorded for 16-year-olds, with approximately 98 comments, followed by a sharp decline at age 17 to around 44 comments.
+
+From ages 18 to 29, comments fluctuated throughout the period, averaging approximately 64 comments, while remaining concentrated within this younger age group.
+
+Beginning at age 30, comments generally followed a increase trend, decreasing from approximately 53 comments to around 59 comments by age 32. After this point, comments declined  noticeably, reaching approximately 30 comments by age 33. A slight increase was observed at age 35 with 49, then a progressive downgrade reaching approximately 8 comments, before declining once again to around 18 comments by age 50.
+
+Overall, the results indicate that comments were concentrated primarily among younger audiences, particularly individuals in their late teens and twenties. Comment activity gradually decreased with age, suggesting that younger demographics were more likely to interact with advertising content than older audiences.
+
+
 * #### Hourly Trend, Ad Type Analysis & Country
   
 <p align="center">
@@ -689,6 +731,27 @@ The monthly analysis focused on June, where daily purchases showed only minor fl
 <p align="center">
 <img width="880" height="495" alt="image" src="https://github.com/user-attachments/assets/b1809651-9417-4ab3-8aa8-85a7f34ce5a3" />
 </p>
+
+The weekly purchases trend reveals a consistent distribution across the four ad formats over the 15-week period analyzed.
+
+Stories generated the highest number of purchases, beginning with approximately 13 purchases in Week 19 before increasing steadily to around 16 purchases between Weeks 20 and 31. During Week 32, purchases declined sharply to approximately 3.
+
+Image ads ranked second, recording approximately 6 purchases in Week 19 before increasing to around 15 purchases throughout Weeks 20 to 31, followed by a significant decrease to 3 purchases in Week 32.
+
+Carousel ads followed closely behind, generating approximately 12 purchases in Week 19 and increasing to around 18 purchases during Weeks 20 to 31 before dropping to approximately 7 purchases in Week 32.
+
+Video ads recorded the lowest performance throughout the analyzed period, starting with approximately 3 purchases in Week 19, rising to around 4 purchases between Weeks 20 and 31, and declining to approximately 3 purchases in Week 32.
+
+Overall, all four ad formats followed a very similar pattern, characterized by a gradual increase in purchases during the middle weeks followed by a noticeable decline in the final week of the analysis. Among them, Stories consistently generated the highest number of purchases, while Video ads remained the lowest-performing format.
+
+The age distribution shows that purchases were concentrated among younger audiences. The highest number of purchases was recorded for 16-year-olds, with approximately 45 purchases, while a second peak was observed among 23-year-olds, with approximately 42 purchases.
+
+Between ages 18 and 29, purchases remained relatively high, averaging around 29 purchases, although this age range experienced several noticeable increases and decreases throughout the period.
+
+Beginning at age 32, purchases followed a gradual downward trend, decreasing from approximately 26 purchases to around 5 purchases by age 43. A slight increase was observed at ages 44 and 45, reaching approximately 6 purchases, before declining once again to around 2 purchases by age 50.
+
+Overall, the results indicate that purchases were concentrated primarily among younger audiences, particularly individuals in their late teens and twenties. Purchase activity gradually decreased with age, suggesting that younger demographics were more likely to complete purchases than older audiences.
+
 
 * #### Hourly Trend, Ad Type Analysis & Country
   
