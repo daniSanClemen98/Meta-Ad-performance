@@ -514,6 +514,24 @@ Overall, the results indicate that impressions were concentrated primarily among
 <img width="883" height="492" alt="image" src="https://github.com/user-attachments/assets/a8298758-be09-4626-8798-080cb72d976d" />
 </p>
 
+To analyze short-term performance, impressions were examined over a 24-hour period. Overall, impressions remained relatively stable throughout the day, with some moderate  and drastic fluctuations between the highest and lowest values.
+
+The first peak occurred at 12:00 AM, reaching approximately 5,224 impressions, followed by a slight decline of an average of 5,157 impressions from 1:00 AM to 3:00 AM. Impressions then declined to the lowest point at 4:00 AM to approximately 5,016, before increasing at 5:00 AM with 5,104, and 5,163 impressions at 6:00 AM.
+
+Performance then drop slightly with 5,131 impressions at 7:00 AM, to then start to increase steadly from 8:00 AM to 10:00 AM with an average of 5,200, to then reach the highest peak recorded at 11:00 AM (5,270 impressions). Following a brief decline at 12:00 PM with 5,160 impressions, then impressions increased once more reaching  5,203 at 1:00 PM, then there is a slight steady decline with around 5,129 impressions from 2:00 PM and 3:00 PM. Impressions had a slight recovery at 4:00 PM to around 5,197, before decreasing slightly at 5:00 PM with 5,092 impressions.
+
+Between 6:00 PM and 7:00 PM, impressions gradually increased again and plataued with 5,169, then dropping at approximately 5,095 impressions at 8:00 PM, followed by a minor increase between 9:00 PM and 10:00 PM with around 5,123. Activity then increased during 12:00 PM to 5,263 reaching the final peak of the day
+
+Overall, the hourly distribution exhibited  fluctuations, indicating a dynamic activity throughtout the day.
+
+From a geographic perspective, the United States generated the highest number of impressions, with approximately 35,413, followed by the United Kingdom (17,630) and Canada (11,832).
+
+These results indicate that the advertising campaigns achieved their greatest reach within these markets. While countries such as India have a larger overall Facebook user base, campaign performance depends on the selected target audience and advertising strategy rather than the total number of platform users. Therefore, the observed distribution reflects the campaign's targeting rather than overall Facebook popularity by country.
+
+Across the different ad formats, Video ads delivered the strongest overall performance, recording the highest Click-Through Rate (CTR) (11.90%), Engagement Rate (ER) (13.74%), and a highly competitive Conversion Rate (CR) (5.07%). Stories generated the highest number of impressions (108,932) while also achieving the highest Purchase Rate (PR) (0.63%) and Conversion Rate (CR) (5.34%).
+
+Overall, the results suggest that Stories were the most effective format for maximizing audience reach and conversions, whereas Video ads excelled at generating user engagement. Image and Carousel ads produced solid results across all performance metrics but generally ranked below Stories and Video, indicating opportunities to prioritize higher-performing formats depending on campaign objectives.
+
 
 ## 🔍 Engagments (Ig)
 
@@ -562,6 +580,26 @@ Overall, the results indicate that engagements were concentrated primarily among
 <p align="center">
 <img width="879" height="491" alt="image" src="https://github.com/user-attachments/assets/08831b94-caa9-499d-aa16-115cadec6235" />
 </p>
+
+To analyze short-term performance, engagements were examined over a 24-hour period. Overall, engagements remained relatively stable throughout the day, with only moderate fluctuations between the highest and lowest values.
+
+At 12:00 AM there were 696 engagements were reached , followed by a slight decline to around 681 engagements at 1:00 AM. Engagements increased again at 2:00 AM to approximately 734 hitting th days first peak, before reaching the day's lowest point at 3:00 AM, with 663 engagements.
+
+Performance recovered immediately afterward, reaching 731 engagements at 4:00 AM. Following a brief decline with 678 engagments at 5:00 AM, engagements increased once more steadly to approximately to  707 between 6:00 AM to 8:00 PM. After a slight decrease and then platau of around 702 engagements from 9:00 AM to 10:00 PM, then another drop at 11:00 PM reaching approximately 684 engagements.
+
+Engagements then increased drasticly to approximately 741 at 12:00 PM before increasing again slightly to 744 at 1:00 PM and with this reaching the highest peak of the day. This was followed by the second-lowest point of the day at 3:00 pM, with approximately 664 engagements.
+
+Between 4:00 PM and 5:00 PM, engagements increased again, peaking at approximately 719 engagements, before declining again at 6:00 PM to 675 engagments and increasing again and remaining relatively stable through 7:00 PM to 9:00 PM, averaging around 716 engagements followed by a gradual decline between 10:00 PM and 11:00 PM to around 684 engagements.
+
+Overall, the hourly distribution exhibited fluctuations, indicating that engagements showed a clear uneven behavior.
+
+From a geographic perspective, the United States generated the highest number of engagements, with approximately 4,853, followed by the United Kingdom (2,445) and Canada (1,609).
+
+These results indicate that the advertising campaigns achieved their highest levels of engagement within these markets. While countries such as India have a larger overall Facebook user base, campaign performance depends on the selected target audience and advertising strategy rather than the total number of platform users. Therefore, the observed distribution reflects the campaign's targeting rather than Facebook's overall popularity by country.
+
+Across the different ad formats, Video ads delivered the strongest overall performance, recording the highest Click-Through Rate (CTR) (11.90%), Engagement Rate (ER) (13.74%), and a highly competitive Conversion Rate (CR) (5.07%). Stories generated the highest number of impressions (108,932) while also achieving the highest Purchase Rate (PR) (0.63%) and Conversion Rate (CR) (5.34%).
+
+Overall, the results suggest that Stories were the most effective format for maximizing audience reach and conversions, whereas Video ads excelled at generating user engagement. Image and Carousel ads produced solid results across all performance metrics but generally ranked below Stories and Video, indicating opportunities to prioritize these higher-performing formats depending on campaign objectives.
 
 
 ## 🔍 Clicks (Ig)
