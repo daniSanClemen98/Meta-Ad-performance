@@ -650,6 +650,28 @@ Overall, the results indicate that clicks were concentrated primarily among youn
 <img width="881" height="496" alt="image" src="https://github.com/user-attachments/assets/397131da-1665-48d3-981c-e2e37d2debf9" />
 </p>
 
+To analyze short-term performance, clicks were examined over a 24-hour period. Overall, clicks remained relatively stable throughout the day, with only moderate fluctuations between the highest and lowest values.
+
+From 12:00 AM to 1:00 AM, there was an small platau of around 602 clicks, followed by the second highest peak to around 644 clicks at 2:00 AM. Clicks declined again reaching the second lowesr point at 3:00 AM to approximately 580, before increasing again at 4:00 AM, with 623 clicks.
+
+Performance dropped afterward, reaching 583 clicks at 5:00 AM. Following a brief increase to 594 at 6:00 AM, clicks increased once more to approximately 619 between  7:00 AM and 10:00 AM. After a slight decrease to around 599 clicks at 11:00 AM, to the record the highest peak of the day at 12:00 PM with 656 clicks and at 1:00 PM reaching approximately 659 clicks.
+
+Clicks then declined to approximately 611 at 2:00 PM, before declining even more reaching the lowest point of the day at 3:00 PM to around 573 clicks. This was followed by a significant increase at 4:00 PM, with approximately 626 clicks.
+
+At 5:00 PM, clicks reached approximately 634 clicks, to then drop to the third lowest point at 6:00 PM, with around 582 clicks. This was followed by a significant rise to approximately 624 clicks at 7:00 PM.
+
+Activity decreased gradually during the following hours in a tilted line, reaching approximately 614 clicks from 8:00 PM to 10:00 PM. Clicks then declined one final time to around 579 at 11:00 PM. 
+
+Overall, the hourly distribution exhibited  fluctuations, indicating that click activity remained relatively consistent in a few periods of hours throughout the day.
+
+From a geographic perspective, the United States generated the highest number of clicks, with approximately 4,252, followed by the United Kingdom (2,119) and Canada (1,414).
+
+These results indicate that the advertising campaigns achieved their greatest reach within these markets. While countries such as India have a larger overall Facebook user base, campaign performance depends on the selected target audience and advertising strategy rather than the total number of platform users. Therefore, the observed distribution reflects the campaign's targeting rather than Facebook's overall popularity by country.
+
+Across the different ad formats, Video ads delivered the strongest overall performance, recording the highest Click-Through Rate (CTR) (11.90%), Engagement Rate (ER) (13.74%), and a highly competitive Conversion Rate (CR) (5.07%). Stories generated the highest number of impressions (108,932) while also achieving the highest Purchase Rate (PR) (0.63%) and Conversion Rate (CR) (5.34%).
+
+Overall, the results suggest that Stories were the most effective format for maximizing audience reach and conversions, whereas Video ads excelled at generating user engagement. Image and Carousel ads produced solid results across all performance metrics but generally ranked below Stories and Video, indicating opportunities to prioritize these higher-performing formats depending on campaign objectives.
+
 
 ## 🔍 Shares (Ig)
 
@@ -699,6 +721,23 @@ Overall, the results indicate that shares were concentrated primarily among youn
 <img width="884" height="496" alt="image" src="https://github.com/user-attachments/assets/99a7d3ce-ffff-4f0c-af6c-73e891c79097" />
 </p>
 
+To analyze short-term performance, shares were examined over a 24-hour period. Overall, shares remained relatively stable throughout the day, with only moderate fluctuations between the highest and lowest values.
+
+The day began with approximately 31 shares at 12:00 AM, then with 26 shares at 1:00 AM, to then increasing to 36 shares at 2:00 AM and 35 shares at 3:00 AM. At 4:00 PM with 29 shares, after which shares there was a curve going down with around 12 between 5:00 AM to 7:00 PM, before increasing between 8:00 AM and 9:00 AM with approximately 33 shares.
+
+Performance declined  afterwards, reaching to approximately 25 shares at 10:00 AM and 11:00 AM, then there was a slight drop of 21 shares at 12:00 PM. This was followed by a slight increase to 24 shares at 1:00  PM, before dropping again to approximately 20 shares at 2:00 PM. Shares then shares had significanr increase to 30 at 3:00 PM, then a drop followed by a platau at around 23 during 4:00 PM and 6:00 PM.
+
+Between 7:00 PM and 8:00 PM, shares increased slightly to approximately 28, before increasing at around 42 shares and with these reaching the highest peak of the day at 9:00 PM. At 10:00 PM, shares declined to approximately 19 and reaching the lowest point of the day, before recovering to around 38 shares recording the second highest peak.
+
+Overall, the hourly distribution exhibited only minor fluctuations, to then have the drastic fluctuation during the last three hours of the day.
+
+From a geographic perspective, the United States generated the highest number of shares, with approximately 193, followed by the United Kingdom (103) and Canada (67).
+
+These results indicate that the advertising campaigns achieved their greatest reach within these markets. While countries such as India have a larger overall Facebook user base, campaign performance depends on the selected target audience and advertising strategy rather than the total number of platform users. Therefore, the observed distribution reflects the campaign's targeting rather than Facebook's overall popularity by country.
+
+Across the different ad formats, Video ads delivered the strongest overall performance, recording the highest Click-Through Rate (CTR) (11.90%), Engagement Rate (ER) (13.74%), and a highly competitive Conversion Rate (CR) (5.07%). Stories generated the highest number of impressions (108,932) while also achieving the highest Purchase Rate (PR) (0.63%) and Conversion Rate (CR) (5.34%).
+
+Overall, the results suggest that Stories were the most effective format for maximizing audience reach and conversions, whereas Video ads excelled at generating user engagement. Image and Carousel ads produced solid results across all performance metrics but generally ranked below Stories and Video, indicating opportunities to prioritize these higher-performing formats depending on campaign objectives.
 
 
 ## 🔍 Commets (Ig)
