@@ -788,6 +788,24 @@ Overall, the results indicate that comments were concentrated primarily among yo
 <img width="882" height="492" alt="image" src="https://github.com/user-attachments/assets/1e9bba75-e6b4-4d14-831c-66ca6d2d024b" />
 </p>
 
+To analyze short-term performance, comments were examined over a 24-hour period. Overall, comments remained relatively stable throughout the day, with only moderate fluctuations between the highest and lowest values.
+
+Between 12:00 AM and 2:00 AM, comment activity experienced  decreases, averaging approximately 56 comments. This period was followed by the lowest point of the day at 3:00 AM, with approximately 48 comments. A significant rise was then observed at 4:00 AM, with approximately 61 comments, before comment activity increased steadily from 5:00 AM to 6:00 AM, reaching around 69 comments.
+
+Performance declined immediately afterward, reaching approximately 57 comments at 7:00 AM. Following a brief recovery to around 65 comments at 8:00 AM, comments fell slightly to approximately 57 at 9:00 AM. After a slight increase and similar manitance averaging around 61 comments between 10:00 AM and 1:00 PM, followed by the highest peak was recorded at 2:00 PM, reaching approximately 75 comments.
+
+Comments then reached a valley from  3:00 PM to 5:00 PM, with approximately 60 comments, before increasing again to around 70 at 6:00 PM. This was followed by a slight decline and a platau from 7:00 PM and 8:00 PM, reaching approximately 64 comments. Then a minor valley was recorded during the last hours of the day with approximately 62 comments.
+
+Overall, the hourly distribution exhibited only minor fluctuations, indicating that comment activity remained relatively consistent throughout the day.
+
+From a geographic perspective, the United States generated the highest number of comments, with approximately 408, followed by the United Kingdom (223) and Canada (128).
+
+These results indicate that the advertising campaigns generated the highest level of comment activity within these markets. Unlike the previous measures, While countries such as India have a larger overall Facebook user base, campaign performance depends on the selected target audience and advertising strategy rather than the total number of platform users. Therefore, the observed distribution reflects the campaign's targeting rather than Facebook's overall popularity by country.
+
+Across the different ad formats, Video ads delivered the strongest overall performance, recording the highest Click-Through Rate (CTR) (11.90%), Engagement Rate (ER) (13.74%), and a highly competitive Conversion Rate (CR) (5.07%). Stories generated the highest number of impressions (108,932) while also achieving the highest Purchase Rate (PR) (0.63%) and Conversion Rate (CR) (5.34%).
+
+Overall, the results suggest that Stories were the most effective format for maximizing audience reach and conversions, whereas Video ads excelled at generating user engagement. Image and Carousel ads produced solid results across all performance metrics but generally ranked below Stories and Video, indicating opportunities to prioritize these higher-performing formats depending on campaign objectives.
+
 
 ## 🔍 Purchases (Ig)
 
@@ -835,6 +853,26 @@ Overall, the results indicate that purchases were concentrated primarily among y
 <p align="center">
 <img width="881" height="493" alt="image" src="https://github.com/user-attachments/assets/061642d2-f309-4d22-b6cd-e021bcd9ba2e" />
 </p>
+
+To analyze short-term performance, purchases were examined over a 24-hour period. Overall, purchases experienced significant fluctuations throughout the day, with noticeable variation between the highest and lowest values.
+
+The first peak occurred at 12:00 AM, reaching approximately 41 purchases, followed by a significant decline to around 25 purchases at 1:00 AM. Purchases increased again to approximately 35 at 2:00 AM before declining once more to an average of 25 purchases from 3:00 AM to 4:00 AM. Followed by the lowest point observed at 5:00 AM, reaching 18 purchases, followed by another increase to around 31 purchases at 6:00 AM, to then reach the second peak of the day with 41 purchases at 7:00 AM, to drop once more to 29 purchases at 8:00 AM.
+
+Performance kept dropping afterward, reaching approximately 22 purchases at 9:00 AM. Purchases then rise to reach the highest peak of the day, at 10:00 AM, with approximately 43 purchases. This was followed by a sharp decline to around 25 purchases at 11:00 AM and then reaching the second lowest point of the day at 12:00 PM with 21 purchases. There was a rise at 1:00 PM with 34, purchases then drop again at approximately 26 purchases at 2:00 PM, before increasing slightly to around 36 purchases at 3:00 PM.
+
+Purchases plateaued at approximately 27 between 4:00 PM and 6:00 PM, before increasing slightly to around 37 purchases at 7:00 PM. This was followed by a significant decline to approximately 22 purchases at 8:00 PM, before going on a upward trend that culminated at 10:00 PM, with approximately 38 purchases. Purchases then declined one last time to around 24 at 11:00 PM.
+
+Overall, the hourly distribution exhibited significant fluctuations, indicating that purchase activity varied considerably throughout the day.
+
+Geographic and Ad Type Analysis
+
+From a geographic perspective, the United States generated the highest number of purchases, with approximately 244, followed by the United Kingdom (94) and Canada (62).
+
+These results indicate that the advertising campaigns generated the highest number of purchases within these markets. While countries such as India have a larger overall Facebook user base, campaign performance depends on the selected target audience and advertising strategy rather than the total number of platform users. Therefore, the observed distribution reflects the campaign's targeting rather than Facebook's overall popularity by country.
+
+Across the different ad formats, Video ads delivered the strongest overall performance, recording the highest Click-Through Rate (CTR) (11.90%), Engagement Rate (ER) (13.74%), and a highly competitive Conversion Rate (CR) (5.07%). Stories generated the highest number of impressions (108,932) while also achieving the highest Purchase Rate (PR) (0.63%) and Conversion Rate (CR) (5.34%).
+
+Overall, the results suggest that Stories were the most effective format for maximizing audience reach and conversions, whereas Video ads excelled at generating user engagement. Image and Carousel ads produced solid results across all performance metrics but generally ranked below Stories and Video, indicating opportunities to prioritize these higher-performing formats depending on campaign objectives.
 
 
 ## 📖 Conclusion
