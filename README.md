@@ -877,3 +877,6 @@ Overall, the results suggest that Stories were the most effective format for max
 
 ## 📖 Conclusion
 
+Overall, between both platforms throughout all six measures the results revolving gender remained pretty consitent not one ever going over 50% percent, for example the data for facebook the female users continued to be the majority followed by all users and lastly having males users, for instagram data there is a slight shift with the last two measures "Comments and Purchases" when all users became the biggest group followed by the female group but never by a large or significant margen. When it comes to the analysis by month there every mesuare througout both platforms no real pattern can be identify because its unique days to each centered analysis.
+
+
