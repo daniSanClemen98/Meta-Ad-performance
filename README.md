@@ -880,4 +880,10 @@ Overall, the results suggest that Stories were the most effective format for max
 
 Overall, between both platforms throughout all six measures the results revolving gender remained pretty consitent not one ever going over 50% percent, for example the data for facebook the female users continued to be the majority followed by all users and lastly having males users, for instagram data there is a slight shift with the last two measures "Comments and Purchases" when all users became the biggest group followed by the female group but never by a large or significant margen. When it comes to the analysis by month there every mesuare througout both platforms no real pattern can be identify because its unique days to each centered analysis.
 
+The weekly trends stories stayed almost as the most interacted ad Type on both platforms expect for the comments measure on instagram where images surpased them that one time, but images was the second ad Type on both platforms, followed then by carousel and in last position was video, this might suggest that information gets to people easier if they are in a short  and quick concept such as a story or an image rather than a possible longer and more attention demanding one, such as video. The age factor had  quite consistent results in almost all measures on both platforms 16-year olds were the ones that engaged the most, in some measures 26-year olds were the most engaged with the Ads, but the pattern was pretty consistent people in their twenties stood up as the group that was more active on the engagment, then usually from the age of 30 there is a noticiable decline and then a more drastic one the older the data pool the least engagment there was.
+
+
+
+
+
 
